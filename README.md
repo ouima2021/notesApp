@@ -1,3 +1,1 @@
-**Instruction**
-
-Complete the functions that will make the notes App to work complete.
+I'm not sure I am really getting this. Some of the code I can do by myself, but for the most part I need serious help to fill it in. 
